@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vedranrealty.com
+
+# Sitemaps
+Sitemap: https://vedranrealty.com/sitemap.xml
